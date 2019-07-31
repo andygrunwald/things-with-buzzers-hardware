@@ -1,7 +1,8 @@
 # things-with-buzzers
+
 Things you can do with hardware buzzers in the real world by connecting it with softwrae
 
-# Example code (Python)
+## Example code (Python)
 
 ```python
 import os
@@ -36,3 +37,33 @@ try:
 finally:
     GPIO.cleanup()
 ```
+
+## Wiring
+
+GPIO pin out:
+
+```
+USB Port 1:
+    Button:    21
+    LED:       26
+
+USB Port 2:
+    Button:    20
+    LED:       19
+
+USB Port 3:
+    Button:    16
+    LED:       13
+
+USB Port 4:
+    Button:    12
+    LED:       6
+```
+
+Button wiring (from left to right): `RED | xxx | GREEN | BLACK`
+
+* Red = Voltage for the LED
+* Green = Button
+* Black = Ground (GND)
+
+![button wiring](./images/button-wiring.jpg "Button wiring")
