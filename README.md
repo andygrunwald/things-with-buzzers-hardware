@@ -30,7 +30,12 @@ It is how it looks like:
   <img src="images/buzzer-setup.png" title="The complete setup: Buzzer -> USB -> Raspberry Pi -> Computer" alt="The complete setup: Buzzer -> USB -> Raspberry Pi -> Computer">
 </p>
 
-## What we need / Bill of material (BOM)
+## What we need / Bill of materials (BOM)
+
+To replicate this project and build your buzzers, you need a couple of things.
+We have created a complete list of what you need, a so-called _Bill of material (BOM)_.
+
+Check it out: [Bill of materials (BOM)](./bill-of-materials.md).
 
 ## Buzzers
 
