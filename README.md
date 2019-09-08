@@ -38,6 +38,14 @@ It is how it looks like:
 
 ## Raspberry Pi
 
+On the Raspberry Pi (following _Pi_) itself, we install a [standard Raspbian Lite operating system](https://www.raspberrypi.org/downloads/raspbian/) without any desktop functionality.
+
+To access the Pi from an external client (e.g., laptop or mobile phone) you should connect it to a network.
+Either to an existing one via a typical RJ45 LAN cable or a wireless network (can be done via [`raspi-config`](https://www.raspberrypi.org/documentation/configuration/raspi-config.md)).
+If you want to run it completely independent and maybe offline, we recommend to [configure the Pi as a wireless access point](https://www.raspberrypi.org/documentation/configuration/wireless/access-point.md).
+
+Add the Pi hat onto the GPIO and move on to your first software tests.
+
 ## How we can test the buzzers (with software)
 
 ## Things you can do with buzzers
