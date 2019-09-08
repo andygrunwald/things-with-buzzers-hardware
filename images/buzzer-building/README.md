@@ -47,7 +47,7 @@ Add the breadboard jumper wires to the buzzer like shown below.
 If you plan to build multiple buzzers, we suggest always using the same cable colors for the same purpose.
 In our pictures, we used:
 
-* a red 🔴 jumping wire for the LED
+* a red 🔴 jumping wire for the LED (voltage)
 * a green 🍏 jumping wire for the Button
 * a black ⚫ jumping wire for the ground (GND)
 
