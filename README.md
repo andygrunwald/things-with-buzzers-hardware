@@ -1,4 +1,4 @@
-# Things with buzzers: Hardware
+# things with buzzers: Hardware
 
 Build your own hardware game show buzzers and do [awesome things](#things-you-can-do-with-buzzers) with it! 🚀
 
