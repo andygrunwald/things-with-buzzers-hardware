@@ -1,6 +1,6 @@
 # Bill of materials (BOM)
 
-_If you don't know what this is, have a look at the [main README](../README.md)_
+_If you don't know what this is, have a look at the [main README](README.md)_
 
 Everything that you need to build your buzzers and replicate this project.
 
