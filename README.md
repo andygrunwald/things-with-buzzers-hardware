@@ -143,6 +143,11 @@ If everything works out, it is okay to freak out and run naked through your flat
 You deserved it. You have built the foundation for more.
 Don't stop. Find out [what you can do with buzzers](#things-you-can-do-with-buzzers).
 
+## The result
+
+We have set up a quick demo setup.
+Have a quick look at this video: [things with buzzers: hardware showcase @ YouTube](https://youtu.be/pAQNX0Fhxk4).
+
 ## Things you can do with buzzers
 
 * Running a Jeopardy! game show
@@ -168,7 +173,3 @@ Without them, this project would not happen.
 
 Lars has designed and built the complete hardware.
 Matthias helped a lot with the software and motivation part 😀
-
-## TODOs
-
-* Add a gif / video to show the end result
