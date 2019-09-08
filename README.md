@@ -1,69 +1,54 @@
-# Things with buzzers
+# Things with buzzers: Hardware
 
-Things you can do with hardware buzzers in the real world by connecting it with softwrae
+Build your own hardware game show buzzers and do [awesome things](#things-you-can-do-with-buzzers) with it! 🚀
 
-## Example code (Python)
+This repository contains everything you need to build hardware buzzers and connecting them with your software.
+Start today having fun, and make people happy by providing them an unforgettable time.
 
-```python
-import os
-import RPi.GPIO as GPIO
-import time
-import subprocess
+<p align="center">
+  <img src="images/buzzers-raspberrypi.jpg" title="The finished product: Four buzzers, a Raspberry Pi incl. hat" alt="The finished product: Four buzzers, a Raspberry Pi incl. hat">
+</p>
 
-PIN_BTN = 12
-PIN_LED = 6
+## How we build and run them
 
-GPIO.setmode(GPIO.BCM)
-GPIO.setup(PIN_BTN, GPIO.IN, pull_up_down=GPIO.PUD_UP)
-GPIO.setup(PIN_LED, GPIO.OUT)
-GPIO.output(PIN_LED, GPIO.LOW)
+We built four game show buzzers in four different colors (red, green, blue, yellow).
+The buzzer cases are self-printed with a 3D-Printer.
+Each buzzer case has a female USB connector embedded.
 
-ledOn = False
-def buttonDown(channel):
-    global ledOn
-    print "DOWN!!"
-    if (ledOn == True):
-        ledOn = False
-        GPIO.output(PIN_LED, GPIO.LOW)
-    else:
-        ledOn = True
-        GPIO.output(PIN_LED, GPIO.HIGH)
+The central control unit is a Raspberry Pi 3 Model B+ (following _Pi_) with a custom build hat module (circuit board).
+The hat module offers four female USB connectors and maps them onto the GPIO of the Pi.
 
-GPIO.add_event_detect(PIN_BTN, GPIO.RISING, callback=buttonDown, bouncetime=300)
+Each buzzer connects via a USB cable to the Pi hat.
+On the Pi, we can place software and read the buzzer signals (e.g., buzzer pressed) and react on this.
 
-try:
-    while True:
-        time.sleep(1)
-finally:
-    GPIO.cleanup()
-```
+If the software (running on the Pi) offers a UI and the Pi connects to a network (or opens up a new network), a client can connect to it.
+As a small software example: Show in the UI which button is pressed.
 
-## Wiring
+It is how it looks like:
 
-GPIO pin out:
+<p align="center">
+  <img src="images/buzzer-setup.png" title="The complete setup: Buzzer -> USB -> Raspberry Pi -> Computer" alt="The complete setup: Buzzer -> USB -> Raspberry Pi -> Computer">
+</p>
 
-```
-USB Port 1:
-    Button:    21
-    LED:       26
+## What we need / Bill of material (BOM)
 
-USB Port 2:
-    Button:    20
-    LED:       19
+## Buzzers
 
-USB Port 3:
-    Button:    16
-    LED:       13
+## Raspberry Pi Hat
 
-USB Port 4:
-    Button:    12
-    LED:       6
-```
+## Raspberry Pi
 
-Button wiring (from left to right): `RED | xxx | GREEN | BLACK`
+## How we can test the buzzers (with software)
 
-* Red = Voltage for the LED
-* Green = Button
-* Black = Ground (GND)
+## Things you can do with buzzers
 
-![button wiring](./images/button-wiring.jpg "Button wiring")
+* Running a Jeopardy! game show
+* Stopping athletes time during a sports event
+
+## Credits
+
+A big thank you to [Lars Heß / @lhess](https://github.com/lhess) and [Matthias Endler / @mre](https://github.com/mre).
+Without them, this project would not happen.
+
+Lars has designed and built the complete hardware.
+Matthias helped a lot with the software and motivation part ;)
