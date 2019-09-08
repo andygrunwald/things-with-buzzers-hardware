@@ -72,6 +72,7 @@ This makes it easier to assemble and disassemble the setup.
 
 We used [EasyEDA](https://easyeda.com/) to design the printed circuit board (PCB).
 **We made the project public. Check it out at [RPI 4Button LED HUB from derebbe @ EasyEDA](https://easyeda.com/derebbe/RPI-4Button-LED-HUB)**.
+
 The EasyEDA project shows you which resistor, transistor or pin has to be placed.
 Furthermore, you can [order the pre-designed PCB at EasyEDA](https://docs.easyeda.com/en/PCB/Order-PCB).
 Pre-designed, in this case, means: You get the circuit board and need to place the components on it.
