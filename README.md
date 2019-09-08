@@ -79,9 +79,27 @@ Pre-designed, in this case, means: You get the circuit board and need to place t
 All wholes are pre-defined, and all components are connected already.
 
 If you want to create the circuit board on your own, you can find all Gerber files in our [Raspberry Pi Hat Gerber folder](./raspberry-pi-hat-gerber/).
+You can also do a fresh export from [our project on EasyEDA](https://easyeda.com/derebbe/RPI-4Button-LED-HUB).
 
 If this is done, place the hat on the GPIOs on top of the Raspberry Pi.
 By this, you are good to go!
+
+### GPIO pin out
+
+Placing the hat on the pi, you connect the buzzers with the GPIO.
+To react with your software on buzzer pushed, you need to know which pins your software need to listen on.
+The [GPIO pin out assignment](https://www.raspberrypi.org/documentation/usage/gpio/) looks like the following:
+
+| USB Port  | GPIO Pin | Purpose |
+| --------- | -------- | ------- |
+| Port #1   | 21       | Button  |
+| Port #1   | 26       | LED     |
+| Port #2   | 20       | Button  |
+| Port #2   | 19       | LED     |
+| Port #3   | 16       | Button  |
+| Port #3   | 13       | LED     |
+| Port #4   | 12       | Button  |
+| Port #4   | 6        | LED     |
 
 ## Raspberry Pi
 
