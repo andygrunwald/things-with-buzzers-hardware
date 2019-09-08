@@ -33,7 +33,7 @@ Please multiply it according to the number of buzzers you want to build.
 
 The Pi hat is only needed and built once (for four buzzers).
 
-PS: The itself (without components on it) is fully designed at [our EasyEDA project](https://easyeda.com/derebbe/RPI-4Button-LED-HUB) and can be ordered from there. By this, you don't have to connect the components by yourself, only add them onto the board.
+PS: The circuit board itself (without components on it) is fully designed at [our EasyEDA project](https://easyeda.com/derebbe/RPI-4Button-LED-HUB) and can be ordered from there. By this, you don't have to connect the components by yourself, only add them onto the board.
 
 * A [circuit board](https://www.amazon.com/uxcell-Universal-Printed-Circuit-Soldering/dp/B07FK6TDD5/ref=sr_1_20_sspa?keywords=circuit+board&qid=1567943631&s=gateway&sr=8-20-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExRkNFVVhQN1BFU0xEJmVuY3J5cHRlZElkPUEwMTU4NDcyMVNNNllNSExRWFJWMiZlbmNyeXB0ZWRBZElkPUEwOTc0NTAxMkEwVEJQWFFETU1HWSZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) (to cut and solder)
 * 4 x [USB male connector](https://www.amazon.com/USB-Connector-Conwork-Straight-Replacement/dp/B072MCHX41?th=1)
