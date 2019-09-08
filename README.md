@@ -115,10 +115,10 @@ Add the Pi hat onto the GPIO and move on to your first software tests.
 ## Custom Raspberr Pi case
 
 A Pi with a hat consumes more space.
-Especially with a custom hat it is hard to find a case that fits.
-Thats why we printed out own.
+Especially with a custom hat, it is hard to find a case that fits.
+That's why we printed our own.
 
-Printing instructions / Step files can be found in the [3d-models folder for the raspberry pi case](./3d-models/raspberry-pi-case/).
+Printing instructions / Step files can be found in the 3d-models folder for the raspberry pi case.
 Feel free to choose the color of your printing material for the right look.
 Go ahead and print!
 
