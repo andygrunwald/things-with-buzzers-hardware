@@ -1,7 +1,8 @@
 # Buzzer building
 
-If you don't know what this is, have a look at the [main README](../../README.md).
-Otherwise, the images will show you how to build the circuit board, which will connect the buzzer with a USB socket.
+_If you don't know what this is, have a look at the [main README](../../README.md)_.
+
+The images will show you how to build the circuit board, which will connect the buzzer with a USB socket.
 
 The following three images are showing you how it looks like:
 It contains four male pin headers.
