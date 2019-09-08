@@ -51,4 +51,4 @@ A big thank you to [Lars Heß / @lhess](https://github.com/lhess) and [Matthias 
 Without them, this project would not happen.
 
 Lars has designed and built the complete hardware.
-Matthias helped a lot with the software and motivation part ;)
+Matthias helped a lot with the software and motivation part 😀
