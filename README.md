@@ -129,6 +129,20 @@ Go ahead and print!
 
 ## How we can test the buzzers (with software)
 
+Set everything up.
+Connect the buzzers with the Raspberry Pi and start the machine.
+It is time to test our new hardware with software ❤️.
+
+Have a look at our test scripts and test applications.
+Choose the one you like the most (or by roll a dice):
+
+* [test script written in Python 🐍](./software/python/)
+* [test application written in Go](./software/go/)
+
+If everything works out, it is okay to freak out and run naked through your flat.
+You deserved it. You have built the foundation for more.
+Don't stop. Find out [what you can do with buzzers](#things-you-can-do-with-buzzers).
+
 ## Things you can do with buzzers
 
 * Running a Jeopardy! game show
