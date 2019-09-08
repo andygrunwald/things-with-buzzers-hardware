@@ -157,5 +157,4 @@ Matthias helped a lot with the software and motivation part 😀
 
 ## TODOs
 
-* Add software for testing (in Go)
 * Add a gif / video to show the end result
