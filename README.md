@@ -139,3 +139,9 @@ Without them, this project would not happen.
 
 Lars has designed and built the complete hardware.
 Matthias helped a lot with the software and motivation part 😀
+
+## TODOs
+
+* Add software for testing
+* Add the 3d models for printing the raspberry pi case
+* Add a gif / video to show the end result
