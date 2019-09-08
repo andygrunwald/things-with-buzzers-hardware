@@ -112,7 +112,7 @@ If you want to run it completely independent and maybe offline, we recommend to 
 
 Add the Pi hat onto the GPIO and move on to your first software tests.
 
-## Custom Raspberr Pi case
+## Custom Raspberry Pi case
 
 A Pi with a hat consumes more space.
 Especially with a custom hat, it is hard to find a case that fits.
