@@ -60,8 +60,31 @@ Congratulations, you build your first game show buzzer. How awesome is this?
 
 ## Raspberry Pi Hat
 
+Second, we build our custom Pi hat.
+The buzzers are connected to the GPIO on the Raspberry Pi.
+For convenience reasons, we built a custom Pi hat with USB sockets.
+This makes it easier to assemble and disassemble the setup.
+
+<p align="center">
+  <img width="400" src="images/raspberry-pi-hat-front.jpg" title="Raspberry Pi hat front view" alt="Raspberry Pi hat front view">
+  <img width="400" src="images/raspberry-pi-hat-back.jpg" title="Raspberry Pi hat back view" alt="Raspberry Pi hat back view">
+</p>
+
+We used [EasyEDA](https://easyeda.com/) to design the printed circuit board (PCB).
+**We made the project public. Check it out at [RPI 4Button LED HUB from derebbe @ EasyEDA](https://easyeda.com/derebbe/RPI-4Button-LED-HUB)**.
+The EasyEDA project shows you which resistor, transistor or pin has to be placed.
+Furthermore, you can [order the pre-designed PCB at EasyEDA](https://docs.easyeda.com/en/PCB/Order-PCB).
+Pre-designed, in this case, means: You get the circuit board and need to place the components on it.
+All wholes are pre-defined, and all components are connected already.
+
+If you want to create the circuit board on your own, you can find all Gerber files in our [Raspberry Pi Hat Gerber folder](./raspberry-pi-hat-gerber/).
+
+If this is done, place the hat on the GPIOs on top of the Raspberry Pi.
+By this, you are good to go!
+
 ## Raspberry Pi
 
+Third and last step lets set up the Pi!
 On the Raspberry Pi (following _Pi_) itself, we install a [standard Raspbian Lite operating system](https://www.raspberrypi.org/downloads/raspbian/) without any desktop functionality.
 
 To access the Pi from an external client (e.g., laptop or mobile phone) you should connect it to a network.
