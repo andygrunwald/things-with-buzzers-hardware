@@ -101,6 +101,19 @@ Add the Pi hat onto the GPIO and move on to your first software tests.
 * Running a Jeopardy! game show
 * Stopping athletes time during a sports event
 
+## Contribute
+
+If you are a maker or an engineer or just someone who wants to create and ship awesome things: *Go ahead and make this better*.
+Feel free to fork it and play your changes back via a [Pull Request](https://help.github.com/en/articles/about-pull-requests).
+
+If you are unsure or plan to do a more significant rework and you want to get feedback about the idea before you put the effort in: [Open an issue](https://github.com/andygrunwald/things-with-buzzers-hardware/issues/new) and let us talk about your idea.
+
+You have built your own buzzers and did awesome things with it?
+Write an article in your blog, or tell us the story in an issue or make a Pull Request with a Markdown file.
+But tell us. Let us know. Inspire us!
+
+We believe that we can do more together. Let's to it together! 🚀
+
 ## Credits
 
 A big thank you to [Lars Heß / @lhess](https://github.com/lhess) and [Matthias Endler / @mre](https://github.com/mre).
