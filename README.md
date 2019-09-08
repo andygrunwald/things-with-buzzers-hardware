@@ -40,7 +40,7 @@ Check it out: [Bill of materials (BOM)](./bill-of-materials.md).
 ## Buzzers
 
 First, we start with the buzzer case and print it with a 3D printer.
-Printing instructions / Step files can be found in the [3d-models folder](./3d-models).
+Printing instructions / Step files can be found in the [3d-models folder for the buzzer cases](./3d-models/buzzer/).
 Feel free to choose the color of your printing material for the right look.
 Go ahead and print!
 
@@ -112,6 +112,21 @@ If you want to run it completely independent and maybe offline, we recommend to 
 
 Add the Pi hat onto the GPIO and move on to your first software tests.
 
+## Custom Raspberr Pi case
+
+A Pi with a hat consumes more space.
+Especially with a custom hat it is hard to find a case that fits.
+Thats why we printed out own.
+
+Printing instructions / Step files can be found in the [3d-models folder for the raspberry pi case](./3d-models/raspberry-pi-case/).
+Feel free to choose the color of your printing material for the right look.
+Go ahead and print!
+
+<p align="center">
+  <img width="400" src="images/3d-raspberry-pi-case.png" title="3D model of the custom Raspberry Pi case" alt="3D model of the custom Raspberry Pi case">
+  <img width="400" src="images/3d-raspberry-pi-case-lid.png" title="3D model of the custom Raspberry Pi case lid" alt="3D model of the custom Raspberry Pi case lid">
+</p>
+
 ## How we can test the buzzers (with software)
 
 ## Things you can do with buzzers
@@ -143,5 +158,4 @@ Matthias helped a lot with the software and motivation part 😀
 ## TODOs
 
 * Add software for testing
-* Add the 3d models for printing the raspberry pi case
 * Add a gif / video to show the end result
