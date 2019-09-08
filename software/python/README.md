@@ -2,6 +2,8 @@
 
 _If you don't know what this is, have a look at the [main README](../../README.md)_
 
+The test script is written in [Python](https://www.python.org/).
+
 ## Deployment on your Raspberry Pi
 
 If you are on a Mac or Linux machine, you can deploy this script by using `scp` onto your Raspberry Pi:
