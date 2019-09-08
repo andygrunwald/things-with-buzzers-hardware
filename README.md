@@ -39,6 +39,21 @@ Check it out: [Bill of materials (BOM)](./bill-of-materials.md).
 
 ## Buzzers
 
+First, we start with the buzzer case and print it with a 3D printer.
+Printing instructions / Step files can be found in the [3d-models folder](./3d-models).
+Feel free to choose the color of your printing material for the right look.
+Go ahead and print!
+
+If you are new to 3D printing, step files are printing instructions.
+You can few and edit them with software like [Fusion 360 from Autodesk](https://www.autodesk.com/products/fusion-360/free-trial) (they offer [a free version for startups and hobbyists](https://www.autodesk.com/campaigns/fusion-360-for-hobbyists)).
+
+<p align="center">
+  <img width="400" src="images/3d-buzzer-housing.png" title="3D model of the buzzer case" alt="3D model of the buzzer case">
+  <img width="400" src="images/3d-buzzer-lid.png" title="3D model of the buzzer lid" alt="3D model of the buzzer lid">
+</p>
+
+
+
 ## Raspberry Pi Hat
 
 ## Raspberry Pi
