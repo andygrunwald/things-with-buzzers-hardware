@@ -52,9 +52,13 @@ You can few and edit them with software like [Fusion 360 from Autodesk](https://
   <img width="400" src="images/3d-buzzer-lid.png" title="3D model of the buzzer lid" alt="3D model of the buzzer lid">
 </p>
 
-Next step would be to build the small circuit board that connects the buzzer with the USB socket.
-For this, we created a step-by-step image guide.
-Check it out in our [buzzer building folder](./images/buzzer-building/README.md).
+Next step would be to build the small circuit board that connects the buzzer with the USB socket:
+
+<p align="center">
+  <img height="600" src="./images/buzzer-building/12-buzzer-wiring-complete.jpg" title="Buzzer wired internally" alt="Buzzer wired internally">
+</p>
+
+Check out the **step-by-step image guide on how to build this** in our [buzzer building folder](./images/buzzer-building/README.md).
 
 Congratulations, you build your first game show buzzer. How awesome is this?
 
