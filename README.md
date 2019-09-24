@@ -9,6 +9,21 @@ Start today having fun, and make people happy by providing them an unforgettable
   <img src="images/buzzers-raspberrypi.jpg" title="The finished product: Four buzzers, a Raspberry Pi incl. hat" alt="The finished product: Four buzzers, a Raspberry Pi incl. hat">
 </p>
 
+## Table of Contents
+
+* [How we build and run them](#how-we-build-and-run-them)
+* [What we need / Bill of materials (BOM)](#what-we-need--bill-of-materials-bom)
+* [Buzzers](#buzzers)
+* [Raspberry Pi Hat](#raspberry-pi-hat)
+  * [GPIO pin out](#gpio-pin-out)
+* [Raspberry Pi](#raspberry-pi)
+* [Custom Raspberry Pi case](#custom-raspberry-pi-case)
+* [How we can test the buzzers (with software)](#how-we-can-test-the-buzzers-with-software)
+* [The result](#the-result)
+* [Things you can do with buzzers](#things-you-can-do-with-buzzers)
+* [Contribute](#contribute)
+* [Credits](#credits)
+
 ## How we build and run them
 
 We built four game show buzzers in four different colors (red, green, blue, yellow).
