@@ -22,7 +22,7 @@ Start today having fun, and make people happy by providing them an unforgettable
 * [The result](#the-result)
 * [Things you can do with buzzers](#things-you-can-do-with-buzzers)
 * [Contribute](#contribute)
-* [Credits](#credits)
+* [Acknowledgments](#acknowledgments)
 
 ## How we build and run them
 
@@ -185,7 +185,7 @@ But tell us. Let us know. Inspire us!
 
 We believe that we can do more together. Let's to it together! 🚀
 
-## Credits
+## Acknowledgments
 
 A big thank you to [Lars Heß / @lhess](https://github.com/lhess) and [Matthias Endler / @mre](https://github.com/mre).
 Without them, this project would not happen.
