@@ -11,18 +11,18 @@ Start today having fun, and make people happy by providing them an unforgettable
 
 ## Table of Contents
 
-* [How we build and run them](#how-we-build-and-run-them)
-* [What we need / Bill of materials (BOM)](#what-we-need--bill-of-materials-bom)
-* [Buzzers](#buzzers)
-* [Raspberry Pi Hat](#raspberry-pi-hat)
-  * [GPIO pin out](#gpio-pin-out)
-* [Raspberry Pi](#raspberry-pi)
-* [Custom Raspberry Pi case](#custom-raspberry-pi-case)
-* [How we can test the buzzers (with software)](#how-we-can-test-the-buzzers-with-software)
-* [The result](#the-result)
-* [Things you can do with buzzers](#things-you-can-do-with-buzzers)
-* [Contribute](#contribute)
-* [Acknowledgments](#acknowledgments)
+- [How we build and run them](#how-we-build-and-run-them)
+- [What we need / Bill of materials (BOM)](#what-we-need--bill-of-materials-bom)
+- [Buzzers](#buzzers)
+- [Raspberry Pi Hat](#raspberry-pi-hat)
+  - [GPIO pin out](#gpio-pin-out)
+- [Raspberry Pi](#raspberry-pi)
+- [Custom Raspberry Pi case](#custom-raspberry-pi-case)
+- [How we can test the buzzers (with software)](#how-we-can-test-the-buzzers-with-software)
+- [The result](#the-result)
+- [Things you can do with buzzers](#things-you-can-do-with-buzzers)
+- [Contribute](#contribute)
+- [Acknowledgments](#acknowledgments)
 
 ## How we build and run them
 
@@ -42,7 +42,7 @@ As a small software example: Show in the UI which button is pressed.
 It is how it looks like:
 
 <p align="center">
-  <img src="images/buzzer-setup.png" title="The complete setup: Buzzer -> USB -> Raspberry Pi -> Computer" alt="The complete setup: Buzzer -> USB -> Raspberry Pi -> Computer">
+  <img src="images/buzzer-setup-hardware.png" title="The complete setup: Buzzer -> USB -> Raspberry Pi -> Computer" alt="The complete setup: Buzzer -> USB -> Raspberry Pi -> Computer">
 </p>
 
 ## What we need / Bill of materials (BOM)
