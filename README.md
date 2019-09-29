@@ -45,7 +45,7 @@ It is how it looks like:
   <img src="images/buzzer-setup-hardware.png" title="The complete setup: Buzzer -> USB -> Raspberry Pi -> Computer" alt="The complete setup: Buzzer -> USB -> Raspberry Pi -> Computer">
 </p>
 
-_You are missing context, what this is all about?_
+_You are missing the context, what this is all about?_
 Have a look at
 
 * [(2) things with buzzers: websocket](https://github.com/andygrunwald/things-with-buzzers-websocket).
@@ -184,7 +184,11 @@ Have a quick look at this video: [things with buzzers: hardware showcase @ YouTu
 If you are a maker or an engineer or just someone who wants to create and ship awesome things: *Go ahead and make this better*.
 Feel free to fork it and play your changes back via a [Pull Request](https://help.github.com/en/articles/about-pull-requests).
 
-If you are unsure or plan to do a more significant rework and you want to get feedback about the idea before you put the effort in: [Open an issue](https://github.com/andygrunwald/things-with-buzzers-hardware/issues/new) and let us talk about your idea.
+If you ...
+* are unsure
+* plan to do a more significant rework
+* want to get feedback about the idea before you put the effort in
+[Open an issue](https://github.com/andygrunwald/things-with-buzzers-hardware/issues/new) and let us talk about your idea.
 
 You have built your own buzzers and did awesome things with it?
 Write an article in your blog, or tell us the story in an issue or make a Pull Request with a Markdown file.
