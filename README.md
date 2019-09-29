@@ -188,6 +188,7 @@ If you ...
 * are unsure
 * plan to do a more significant rework
 * want to get feedback about the idea before you put the effort in
+
 [Open an issue](https://github.com/andygrunwald/things-with-buzzers-hardware/issues/new) and let us talk about your idea.
 
 You have built your own buzzers and did awesome things with it?
