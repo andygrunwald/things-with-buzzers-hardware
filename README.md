@@ -114,16 +114,18 @@ Placing the hat on the pi, you connect the buzzers with the GPIO.
 To react with your software on buzzer pushed, you need to know which pins your software need to listen on.
 The [GPIO pin out assignment](https://www.raspberrypi.org/documentation/usage/gpio/) looks like the following:
 
-| USB Port  | GPIO Pin | Purpose |
-| --------- | -------- | ------- |
-| Port #1   | 21       | Button  |
-| Port #1   | 26       | LED     |
-| Port #2   | 20       | Button  |
-| Port #2   | 19       | LED     |
-| Port #3   | 16       | Button  |
-| Port #3   | 13       | LED     |
-| Port #4   | 12       | Button  |
-| Port #4   | 6        | LED     |
+| USB Port  | GPIO Pin (BCM) | GPIO Pin (Physical) | Purpose |
+| --------- | -------------- | ------------------- | ------- |
+| Port #1   | 21             | 40                  | Button  |
+| Port #1   | 26             | 37                  | LED     |
+| Port #2   | 20             | 38                  | Button  |
+| Port #2   | 19             | 35                  | LED     |
+| Port #3   | 16             | 36                  | Button  |
+| Port #3   | 13             | 33                  | LED     |
+| Port #4   | 12             | 32                  | Button  |
+| Port #4   | 6              | 31                  | LED     |
+
+The [pin-out mapping from the go-rpio documentation](https://godoc.org/github.com/stianeikeland/go-rpio) is super helpful.
 
 ## Raspberry Pi
 
