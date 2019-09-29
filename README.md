@@ -48,7 +48,7 @@ It is how it looks like:
 _You are missing the context, what this is all about?_
 Have a look at
 
-* [(2) things with buzzers: websocket](https://github.com/andygrunwald/things-with-buzzers-websocket).
+* [(2) things with buzzers: websocket](https://github.com/andygrunwald/things-with-buzzers-websocket)
 
 ## What we need / Bill of materials (BOM)
 
