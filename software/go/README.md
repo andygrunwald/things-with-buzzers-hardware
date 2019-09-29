@@ -7,7 +7,7 @@ The test application is written in [Go](https://golang.org/).
 ## Compile it for the Raspberry Pi
 
 ```sh
-GOARM=7 GOARCH=arm GOOS=linux go build -o "buzzer-push"
+GOARM=7 GOARCH=arm GOOS=linux go build -o "twb-hardware-buzzer-push"
 ```
 
 ## Deployment on your Raspberry Pi
@@ -15,7 +15,7 @@ GOARM=7 GOARCH=arm GOOS=linux go build -o "buzzer-push"
 If you are on a Mac or Linux machine, you can deploy this script by using `scp` onto your Raspberry Pi:
 
 ```sh
-scp -r buzzer-push pi@192.168.4.1:buzzer-push
+scp -r twb-hardware-buzzer-push pi@192.168.4.1:twb-hardware-buzzer-push
 ```
 
 In our example, the target Pi has the IP address `192.168.4.1`.
@@ -25,7 +25,7 @@ In our example, the target Pi has the IP address `192.168.4.1`.
 Login into the Pi, switch to the correct folder, and execute:
 
 ```sh
-sudo ./buzzer-push
+sudo ./twb-hardware-buzzer-push
 ```
 
 ## The result
