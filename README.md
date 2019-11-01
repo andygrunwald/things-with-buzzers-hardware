@@ -12,7 +12,8 @@ Start today having fun, and make people happy by providing them an unforgettable
 _You are missing the context, what this is all about?_
 Have a look at
 
-* [(1) things with buzzers: Jeopardy!](https://github.com/andygrunwald/things-with-buzzers-jeopardy)
+* [(1) things with buzzers: Jeopardy! frontend](https://github.com/andygrunwald/things-with-buzzers-jeopardy)
+* [(1) things with buzzers: sports competition frontend](https://github.com/andygrunwald/things-with-buzzers-sports-competition)
 * [(2) things with buzzers: websocket](https://github.com/andygrunwald/things-with-buzzers-websocket)
 
 ## Table of Contents
