@@ -5,16 +5,11 @@ Build your own hardware game show buzzers and do [awesome things](#things-you-ca
 This repository contains everything you need to build hardware buzzers and connecting them with your software.
 Start today having fun, and make people happy by providing them an unforgettable time.
 
+> Fore even more context, we recomment to read [things with buzzers: building them](https://andygrunwald.com/blog/things-with-buzzers-building-them/).
+
 <p align="center">
   <img src="images/buzzers-raspberrypi.jpg" title="The finished product: Four buzzers, a Raspberry Pi incl. hat" alt="The finished product: Four buzzers, a Raspberry Pi incl. hat">
 </p>
-
-_You are missing the context, what this is all about?_
-Have a look at
-
-* [(1) things with buzzers: Jeopardy! frontend](https://github.com/andygrunwald/things-with-buzzers-jeopardy)
-* [(1) things with buzzers: sports competition frontend](https://github.com/andygrunwald/things-with-buzzers-sports-competition)
-* [(2) things with buzzers: websocket](https://github.com/andygrunwald/things-with-buzzers-websocket)
 
 ## Table of Contents
 
@@ -55,6 +50,8 @@ It is how it looks like:
 _You are missing the context, what this is all about?_
 Have a look at
 
+* [(1) things with buzzers: Jeopardy! frontend](https://github.com/andygrunwald/things-with-buzzers-jeopardy)
+* [(1) things with buzzers: sports competition frontend](https://github.com/andygrunwald/things-with-buzzers-sports-competition)
 * [(2) things with buzzers: websocket](https://github.com/andygrunwald/things-with-buzzers-websocket)
 
 ## What we need / Bill of materials (BOM)
@@ -183,8 +180,8 @@ Have a quick look at this video: [things with buzzers: hardware showcase @ YouTu
 
 ## Things you can do with buzzers
 
-* Running a Jeopardy! game show
-* Stopping athletes time during a sports event
+* [Running a Jeopardy! game show](https://andygrunwald.com/blog/things-with-buzzers-playing-jeopardy/)
+* [Stopping athletes time during a sports event](https://andygrunwald.com/blog/things-with-buzzers-a-sports-competition/)
 
 ## Contribute
 
