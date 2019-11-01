@@ -5,7 +5,7 @@ Build your own hardware game show buzzers and do [awesome things](#things-you-ca
 This repository contains everything you need to build hardware buzzers and connecting them with your software.
 Start today having fun, and make people happy by providing them an unforgettable time.
 
-> Fore even more context, we recomment to read [things with buzzers: building them](https://andygrunwald.com/blog/things-with-buzzers-building-them/).
+> For even more context, we recommend reading [things with buzzers: building them](https://andygrunwald.com/blog/things-with-buzzers-building-them/).
 
 <p align="center">
   <img src="images/buzzers-raspberrypi.jpg" title="The finished product: Four buzzers, a Raspberry Pi incl. hat" alt="The finished product: Four buzzers, a Raspberry Pi incl. hat">
