@@ -23,6 +23,7 @@ Start today having fun, and make people happy by providing them an unforgettable
 - [How we can test the buzzers (with software)](#how-we-can-test-the-buzzers-with-software)
 - [The result](#the-result)
 - [Things you can do with buzzers](#things-you-can-do-with-buzzers)
+- [Alternative hardware buzzer projects](#alternative-hardware-buzzer-projects)
 - [Contribute](#contribute)
 - [Acknowledgments](#acknowledgments)
 
@@ -182,6 +183,10 @@ Have a quick look at this video: [things with buzzers: hardware showcase @ YouTu
 
 * [Running a Jeopardy! game show](https://andygrunwald.com/blog/things-with-buzzers-playing-jeopardy/)
 * [Stopping athletes time during a sports event](https://andygrunwald.com/blog/things-with-buzzers-a-sports-competition/)
+
+## Alternative hardware buzzer projects
+
+* [Slim one handed buzzers by Ross and Garrett](https://github.com/gdsimco/JParty-with-buzzers/blob/8b5948cd840acf981036fda1b671626e5d60780b/physicalbuzzers/README.md)
 
 ## Contribute
 
